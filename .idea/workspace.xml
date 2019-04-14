@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/datacamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datacamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +15,12 @@
     <SUITE FILE_PATH="coverage/datacamp$datacamp.coverage" NAME="datacamp Coverage Results" MODIFIED="1552250412406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datacamp.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/numpyarray.py">
+        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -37,11 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="358" />
-    <option name="y" value="104" />
-    <option name="width" value="1004" />
-    <option name="height" value="674" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="40" />
+    <option name="width" value="1378" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,11 +51,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Using Iterators in Python Land" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,7 +100,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.numpyarray">
+  <component name="RunManager" selected="Python.Iterators">
+    <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datacamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +168,9 @@
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -135,8 +186,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.datacamp" />
+      <item itemvalue="Python.Iterators" />
+      <item itemvalue="Python.numpyarray" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Iterators" />
         <item itemvalue="Python.numpyarray" />
         <item itemvalue="Python.datacamp" />
       </list>
@@ -153,25 +210,20 @@
       <option name="presentableId" value="Default" />
       <updated>1552250282337</updated>
       <workItem from="1552250283477" duration="225000" />
+      <workItem from="1554158034794" duration="833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225000" />
+    <option name="totallyTimeSpent" value="1058000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.34846625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" visible="true" weight="0.2313253" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.3298969" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -179,12 +231,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" x="0" y="0" width="201" height="474" id="Documentation" side_tool="true" weight="0.2267525" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.5929078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="201" height="474" id="Documentation" order="4" side_tool="true" visible="true" weight="0.42775393" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,12 +251,23 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datacamp.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/numpyarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
