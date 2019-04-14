@@ -1,3 +1,4 @@
+import pandas as pd
 
 word = 'data'
 it = iter(word)
@@ -25,3 +26,8 @@ for item in marvel:
     print(item)
 
 print(*marvelmovies)
+
+states = {}
+
+for chunk in pd.read_csv('states.csv', chunksize=5):
+    print(chunk)
