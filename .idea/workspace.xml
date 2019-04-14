@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" afterDir="false" />
+    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="Iterators in Python Land">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -51,7 +50,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,7 +100,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Iterators">
-    <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,13 +186,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.Iterators" />
+      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.numpyarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Iterators" />
         <item itemvalue="Python.numpyarray" />
         <item itemvalue="Python.datacamp" />
       </list>
@@ -212,6 +210,14 @@
       <workItem from="1552250283477" duration="225000" />
       <workItem from="1554158034794" duration="833000" />
     </task>
+    <task id="LOCAL-00001" summary="Iterators in Python Land">
+      <created>1555243747811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555243747811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -221,7 +227,7 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.34846625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22903453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,7 +243,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.5929078" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.5929078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -248,6 +254,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iterators in Python Land" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators in Python Land" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datacamp.py">
@@ -267,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
