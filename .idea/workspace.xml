@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="102" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" />
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" />
+        <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" />
       </list>
     </option>
   </component>
@@ -116,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listcomprehension">
+  <component name="RunManager" selected="Python.generators">
     <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +181,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datacamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="listcomprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,9 +246,11 @@
       <item itemvalue="Python.Iterators" />
       <item itemvalue="Python.numpyarray" />
       <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.generators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generators" />
         <item itemvalue="Python.listcomprehension" />
         <item itemvalue="Python.numpyarray" />
       </list>
@@ -275,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555254401141</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="list comprehension">
+      <created>1555374189157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555374189157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -366,7 +395,8 @@
     <MESSAGE value="Iterators in Python Land" />
     <MESSAGE value="Enumerate, Zip Features" />
     <MESSAGE value="Iterate thru big data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterate thru big data" />
+    <MESSAGE value="list comprehension" />
+    <option name="LAST_COMMIT_MESSAGE" value="list comprehension" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datacamp.py">
@@ -392,8 +422,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
