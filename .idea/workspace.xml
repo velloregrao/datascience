@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="Iterators in Python Land">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/datacamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datacamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="8" column="102" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -37,14 +43,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py" />
+        <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
-    <option name="y" value="40" />
-    <option name="width" value="1378" />
-    <option name="height" value="773" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,6 +83,13 @@
               <item name="datacamp" type="462c0819:PsiDirectoryNode" />
               <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
               <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
+              <item name="List Comprehensions &amp; Generators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
               <item name="Using Iterators in Python Land" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -103,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Iterators">
+  <component name="RunManager" selected="Python.listcomprehension">
     <configuration name="Iterators" type="PythonConfigurationType" factoryName="Python">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +180,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="listcomprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datacamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="numpyarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,9 +225,11 @@
       <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.Iterators" />
       <item itemvalue="Python.numpyarray" />
+      <item itemvalue="Python.listcomprehension" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listcomprehension" />
         <item itemvalue="Python.numpyarray" />
       </list>
     </recent_temporary>
@@ -227,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555246574177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Enumerate, Zip Features">
+      <created>1555252724918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555252724918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Iterate thru big data">
+      <created>1555254401141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555254401141</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -243,10 +291,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22339676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22339676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,10 +307,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32340425" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.5929078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49964765" visible="true" weight="0.5929078" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49964765" visible="true" weight="0.45531914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,7 +364,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iterators in Python Land" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators in Python Land" />
+    <MESSAGE value="Enumerate, Zip Features" />
+    <MESSAGE value="Iterate thru big data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterate thru big data" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datacamp.py">
@@ -335,8 +385,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land/Iterators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="8" column="102" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
