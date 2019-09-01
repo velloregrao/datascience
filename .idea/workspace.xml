@@ -231,11 +231,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Iterators" />
       <item itemvalue="Python.datacamp" />
-      <item itemvalue="Python.generators" />
-      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.Iterators" />
       <item itemvalue="Python.numpyarray" />
+      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.generators" />
     </list>
     <recent_temporary>
       <list>
