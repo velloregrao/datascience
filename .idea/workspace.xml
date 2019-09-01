@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,26 +14,7 @@
     <SUITE FILE_PATH="coverage/datacamp$datacamp.coverage" NAME="datacamp Coverage Results" MODIFIED="1552250412406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,8 +29,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="y" value="62" />
+    <option name="width" value="1380" />
     <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -61,6 +41,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,7 +78,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +102,9 @@
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/Using Iterators in Python Land" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -185,6 +168,9 @@
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -204,6 +190,9 @@
       <module name="datacamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -242,11 +231,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.Iterators" />
-      <item itemvalue="Python.numpyarray" />
-      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.generators" />
+      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.numpyarray" />
     </list>
     <recent_temporary>
       <list>
@@ -304,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555374189157</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Generators">
+      <created>1555376293016</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555376293016</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -320,10 +316,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="62" width="1380" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22339676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.267844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,10 +331,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32340425" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003524" side_tool="true" visible="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110376" side_tool="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49964765" visible="true" weight="0.45531914" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.45531914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,7 +391,8 @@
     <MESSAGE value="Enumerate, Zip Features" />
     <MESSAGE value="Iterate thru big data" />
     <MESSAGE value="list comprehension" />
-    <option name="LAST_COMMIT_MESSAGE" value="list comprehension" />
+    <MESSAGE value="Generators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generators" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datacamp.py">
@@ -429,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
