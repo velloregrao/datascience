@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/application.py" afterDir="false" />
+    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="Dash Flask App Deployed Using Elastic BeanStalk">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/dashapp.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,6 +37,7 @@
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" />
         <option value="$PROJECT_DIR$/Web Apps Using Flask/Hello World/virt/application.py" />
         <option value="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/application.py" />
+        <option value="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/application.py" />
       </list>
     </option>
   </component>
@@ -53,6 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,28 +67,10 @@
               <item name="datacamp" type="462c0819:PsiDirectoryNode" />
               <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
-              <item name="Basic Dash App" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Apps Using Flask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Web Apps Using Flask" type="462c0819:PsiDirectoryNode" />
-              <item name="Hello World" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567359395609</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Dash Flask App Deployed Using Elastic BeanStalk">
+      <created>1567373559840</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567373559840</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -381,7 +372,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110376" side_tool="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.4089172" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" weight="0.4089172" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,6 +380,31 @@
       <window_info anchor="right" x="0" y="0" width="201" height="474" id="Documentation" order="4" side_tool="true" visible="true" weight="0.42775393" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30549452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32340425" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110376" side_tool="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.4089172" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="201" height="474" id="Documentation" order="4" side_tool="true" visible="true" weight="0.42775393" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -440,7 +456,8 @@
     <MESSAGE value="list comprehension" />
     <MESSAGE value="Generators" />
     <MESSAGE value="Flask App Deployed Using Elastic BeanStalk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flask App Deployed Using Elastic BeanStalk" />
+    <MESSAGE value="Dash Flask App Deployed Using Elastic BeanStalk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dash Flask App Deployed Using Elastic BeanStalk" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/datacamp.py">
@@ -495,6 +512,63 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/dashapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/extensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/webapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

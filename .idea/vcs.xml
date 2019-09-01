@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dash Apps Using Flask/Dash Stock App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dash Apps Using Flask/tmp/dash_on_flask" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dash_on_flask" vcs="Git" />
   </component>
 </project>
