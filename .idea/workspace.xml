@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Apps Using Flask/Hello World/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +36,7 @@
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/listcomprehension.py" />
         <option value="$PROJECT_DIR$/Data Scientist with python/Python Data Science Toolbox Part 2/List Comprehensions &amp; Generators/generators.py" />
         <option value="$PROJECT_DIR$/Web Apps Using Flask/Hello World/virt/application.py" />
+        <option value="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/application.py" />
       </list>
     </option>
   </component>
@@ -44,7 +45,7 @@
     <option name="width" value="1386" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -58,6 +59,17 @@
             <path>
               <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic Dash App" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
@@ -80,9 +92,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Web Apps Using Flask/Hello World" />
       <recent name="$PROJECT_DIR$/Data Scientist with python" />
@@ -324,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567342442742</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Flask App Deployed Using Elastic BeanStalk">
+      <created>1567359395609</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567359395609</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -342,7 +365,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1386" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30549452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30549452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,7 +381,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110376" side_tool="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.4089172" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.4089172" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -416,7 +439,8 @@
     <MESSAGE value="Iterate thru big data" />
     <MESSAGE value="list comprehension" />
     <MESSAGE value="Generators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generators" />
+    <MESSAGE value="Flask App Deployed Using Elastic BeanStalk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flask App Deployed Using Elastic BeanStalk" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Data Scientist with python/datacamp.py">
@@ -454,10 +478,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Web Apps Using Flask/Hello World/application.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="355">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/Basic Dash App/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
