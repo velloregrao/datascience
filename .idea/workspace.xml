@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datacamp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Scientist with python/datacamp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpyarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Scientist with python/numpyarray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <leaf />
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -29,9 +32,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="62" />
-    <option name="width" value="1380" />
-    <option name="height" value="797" />
+    <option name="x" value="36" />
+    <option name="y" value="166" />
+    <option name="width" value="981" />
+    <option name="height" value="636" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,7 +45,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -49,35 +52,11 @@
               <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="datacamp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
-              <item name="List Comprehensions &amp; Generators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Scientist with python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Data Science Toolbox Part 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Using Iterators in Python Land" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +134,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datacamp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Scientist with python/datacamp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +200,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpyarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Scientist with python/numpyarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555376293016</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Generators">
+      <created>1567341929202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567341929202</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Generators">
+      <created>1567341940466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567341940466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -316,9 +309,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="62" width="1380" height="797" extended-state="0" />
+    <frame x="36" y="166" width="981" height="636" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.267844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.434375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,7 +327,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50110376" side_tool="true" weight="0.45531914" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3298969" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.45531914" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49889624" visible="true" weight="0.5900735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -395,14 +388,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Generators" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datacamp.py">
+    <entry file="file://$PROJECT_DIR$/Data Scientist with python/datacamp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numpyarray.py">
+    <entry file="file://$PROJECT_DIR$/Data Scientist with python/numpyarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
