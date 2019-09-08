@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="Dash Flask App Deployed Using Elastic BeanStalk">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6ca5502d-1f28-4d57-8d4e-f046284e1a28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/dashapp.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,9 +40,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="877" />
+    <option name="x" value="58" />
+    <option name="y" value="116" />
+    <option name="width" value="887" />
+    <option name="height" value="608" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,10 +65,17 @@
               <item name="datacamp" type="462c0819:PsiDirectoryNode" />
               <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="datacamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="datacamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Dash Apps Using Flask" type="462c0819:PsiDirectoryNode" />
+              <item name="Dash Stock App" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,11 +239,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.Iterators" />
-      <item itemvalue="Python.numpyarray" />
-      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.datacamp" />
       <item itemvalue="Python.generators" />
+      <item itemvalue="Python.listcomprehension" />
+      <item itemvalue="Python.numpyarray" />
     </list>
     <recent_temporary>
       <list>
@@ -338,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567373559840</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Dash Flask App Deployed Using Elastic BeanStalk">
+      <created>1567380999895</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567380999895</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -354,9 +366,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1386" height="877" extended-state="0" />
+    <frame x="58" y="116" width="887" height="608" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30549452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30946884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -515,62 +527,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/dashapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/extensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/webapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/dashapp.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/extensions.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/forms.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/models.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/config.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/app/webapp.py" />
+    <entry file="file://$PROJECT_DIR$/Dash Apps Using Flask/dash_on_flask/application.py" />
   </component>
 </project>
